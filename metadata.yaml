@@ -28,6 +28,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44740#New-Readings-Of-Old-Authors
 gutenberg_issued: '2014-01-23'
 gutenberg_type: Text
 identifiers:
