@@ -1,0 +1,45 @@
+_repo: New-Readings-Of-Old-Authors_44740
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspere, William
+    - Shakspeare, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+  illustrators:
+  - agent_name: Cruikshank, George
+    alias: Cruickshank, George
+    birthdate: 1792
+    deathdate: 1878
+    gutenberg_agent_id: '9068'
+    url: http://www.gutenberg.org/2009/agents/9068
+    wikipedia: http://en.wikipedia.org/wiki/George_Cruikshank
+  - agent_name: Seymour, Robert
+    birthdate: 1798
+    deathdate: 1836
+    gutenberg_agent_id: '1828'
+    url: http://www.gutenberg.org/2009/agents/1828
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2014-01-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44740'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shakespeare, William, 1564-1616 -- Quotations'
+- !lcsh 'Caricatures and cartoons -- Great Britain'
+- !lcc 'NC'
+- !lcc 'PR'
+title: New Readings of Old Authors. Shakspeare. King Henry 5th
+url: http://www.gutenberg.org/ebooks/44740
